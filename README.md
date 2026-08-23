@@ -554,18 +554,6 @@ height="180"
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aryanmishra1182-byte/aryanmishra1182-byte/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-> ⚠️ **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically.
-
----
-
 # 🏆 Developer Mindset
 
 <p align="center">
