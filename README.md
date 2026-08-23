@@ -291,7 +291,6 @@ Check my full [repository list →](https://github.com/aryanmishra1182-byte?tab=
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra1182-byte&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="170" />
-<img src="https://github-profile-trophy.vercel.app/?username=aryanmishra1182-byte&theme=radical&no-frame=true&no-bg=true&row=1&column=4" height="170" />
 
 <br><br>
 
