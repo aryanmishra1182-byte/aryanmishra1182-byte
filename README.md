@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=ARYAN+MISHRA;JAVA+%7C+BACKEND+%7C+SDE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&height=100&lines=ARYAN+MISHRA;JAVA+%7C+BACKEND+%7C+SDE" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1-ARYAN%20MISHRA-0D1117?style=for-the-badge&labelColor=7B2FF7&color=0D1117" />
-  <img src="https://img.shields.io/badge/BUILDING-THE%20BACKEND%20OF%20TOMORROW-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BUILDING-THE%20BACKEND%20OF%20TOMORROW-BB86FC?style=for-the-badge&labelColor=1A1028" />
 </p>
-
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Backend+Developer+%E2%98%95;DSA+Enthusiast+%F0%9F%A7%A9;Building%2C+Breaking%2C+Debugging+and+Scaling+%F0%9F%94%A5" />
