@@ -109,7 +109,7 @@ Internships & backend engineering opportunities
 | **Data Science** | Data Analysis · Data Visualization · Feature Engineering · Statistics |
 | **Machine Learning** | Scikit-learn · XGBoost · LightGBM · Regression · Classification · Clustering · PCA |
 | **Tools** | Git · GitHub · MySQL Workbench · IntelliJ IDEA · VS Code · Postman |
-| **DSA** | Arrays, Trees, Graphs, DP & more — practiced in C++, 140+ LeetCode problems solved |
+| **DSA** | Practiced in C++ — 140+ problems solved on LeetCode |
 
 </details>
 
@@ -195,8 +195,8 @@ An end-to-end ML project predicting student exam performance from academic, life
 <br><br>
 
 **Highlights:**
-- Full pipeline from raw data to deployed prediction model
-- Feature engineering across academic + lifestyle variables
+- Full pipeline from raw data to a deployed prediction model
+- Feature engineering across academic and lifestyle variables
 
 </td>
 <td width="50%" valign="top">
@@ -301,50 +301,6 @@ Check my full [repository list →](https://github.com/aryanmishra1182-byte?tab=
 
 > *All stat cards above are rendered live by third-party GitHub services and update automatically — no manual editing needed. If one fails to load momentarily, the rest of the page still renders correctly.*
 
-<br>
-
-<details>
-<summary><b>🐍 Contribution Snake (optional — click for setup)</b></summary>
-<br>
-
-GitHub also supports an animated "snake" that eats through your contribution graph. It requires a one-time GitHub Actions workflow in **this same profile repo** (not just the README) — add a file at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aryanmishra1182-byte
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once the workflow runs once, embed it with:
-
-```markdown
-<img src="https://raw.githubusercontent.com/aryanmishra1182-byte/aryanmishra1182-byte/output/github-contribution-grid-snake-dark.svg" width="100%" />
-```
-
-</details>
-
 <div align="center">
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
@@ -404,7 +360,7 @@ Once the workflow runs once, embed it with:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer" width="100%"/>
 
-<i>Thanks for stopping by — always open to feedback, collaboration, and new opportunities! 🚀</i>
+<i>Thanks for stopping by — always open to feedback, collaboration, and new opportunities.</i>
 
 </div>
 
