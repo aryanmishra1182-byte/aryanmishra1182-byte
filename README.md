@@ -1,4 +1,4 @@
-# <p align="center">⚡ Aryan Mishra ⚡</p>
+<h1 align="center">⚡ Aryan Mishra ⚡</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Backend+Developer+%E2%98%95;DSA+Enthusiast+%F0%9F%A7%A9;Building%2C+Breaking%2C+Debugging+and+Scaling+%F0%9F%94%A5" />
@@ -19,58 +19,120 @@
 # 🌌 Welcome to My Digital Universe
 
 <p align="center">
+  <img src="https://img.shields.io/badge/👨‍💻_SOFTWARE_ENGINEERING_JOURNEY-IN_PROGRESS-7B2FF7?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│        👨‍💻 SOFTWARE ENGINEERING JOURNEY IN PROGRESS         │
-│                                                             │
-│   Java ☕ → Spring Boot 🌱 → Databases 🗄️ → System Design 🏗️ │
-│                                                             │
-│          Solve • Build • Debug • Learn • Repeat 🔥         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<br>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+ ➜ 
+
+<img src="https://img.shields.io/badge/🌱_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+ ➜ 
+
+<img src="https://img.shields.io/badge/🗄️_Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+ ➜ 
+
+<img src="https://img.shields.io/badge/🏗️_System_Design-FF6B35?style=for-the-badge&logoColor=white" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💡_Solve-00D9FF?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🛠️_Build-6DB33F?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🐛_Debug-F7B731?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/📚_Learn-9B59B6?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🔥_Repeat-FF4757?style=for-the-badge&labelColor=161B22" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Turning_ideas_into_scalable_software-00D9FF?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
 
 # 👋 About Me
 
-```java
-public class AryanMishra {
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_(Data_Science)-ABES_Engineering_College-6A5ACD?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-    String role = "Aspiring Software Development Engineer";
+<br>
 
-    String[] currentFocus = {
-        "Java",
-        "Spring Boot",
-        "Backend Development",
-        "Databases",
-        "System Design",
-        "Data Structures & Algorithms"
-    };
+<table>
 
-    String currentlyBuilding =
-        "Backend applications and scalable REST APIs";
+<tr>
 
-    String goal =
-        "Become a skilled Software Development Engineer 🚀";
+<td width="50%" align="center">
 
-}
-```
+### ☕ Backend Developer Journey
 
-### 🧠 Quick Facts
+🚀 **Aspiring Software Development Engineer**
 
-* 🎓 **B.Tech Computer Science & Engineering (Data Science)**
-* 📚 Currently in my **5th Semester**
-* ☕ Focused on becoming a strong **Java Backend Developer**
-* 🧩 Practicing **Data Structures & Algorithms in C++**
-* 🌱 Learning **Advanced Java, Spring Boot, Databases & System Design**
-* 🏗️ Interested in **Scalable Backend Systems**
-* 📊 Background in **Data Science & Machine Learning**
-* 🤝 Open to **Internships, Collaborations & Learning Opportunities**
+🌱 Currently learning **Java & Spring Boot**
+
+🔌 Building **REST APIs & Backend Applications**
+
+🗄️ Exploring **MySQL & PostgreSQL**
+
+🏗️ Learning **System Design Fundamentals**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧩 Problem Solving
+
+💻 Practicing **DSA in C++**
+
+🔥 Solving problems on **LeetCode**
+
+🧠 Improving **Problem Solving Skills**
+
+⚡ Focused on **Writing Clean & Efficient Code**
+
+🎯 Goal → **Software Development Engineer**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎯_CURRENT_FOCUS-0D1117?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend_Development-00D9FF?style=for-the-badge&labelColor=0D1117" />
+
+<img src="https://img.shields.io/badge/System_Design-FF6B35?style=for-the-badge&labelColor=0D1117" />
+
+<img src="https://img.shields.io/badge/DSA-FF4757?style=for-the-badge&labelColor=0D1117" />
+
+</p>
 
 ---
 
@@ -382,13 +444,11 @@ A Java-based project exploring autonomous AI agent and persona behavior.
 
 Currently working on exciting projects involving:
 
-```text
-☕ Java
-🌱 Spring Boot
-🗄️ Databases
-🔐 Authentication
-🏗️ Backend Architecture
-```
+* ☕ Java
+* 🌱 Spring Boot
+* 🗄️ Databases
+* 🔐 Authentication
+* 🏗️ Backend Architecture
 
 </td>
 
@@ -410,23 +470,25 @@ Currently working on exciting projects involving:
 
 </p>
 
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│        🧩 DSA JOURNEY                │
-│                                      │
-│   Arrays          ██████████         │
-│   Strings         █████████          │
-│   Linked Lists    ███████            │
-│   Recursion       ████████           │
-│   Trees           ██████             │
-│   Graphs          █████              │
-│   Dynamic Prog.   ████               │
-│                                      │
-│      Learning Never Stops 🚀         │
-│                                      │
-└──────────────────────────────────────┘
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/🧩_Arrays-00D9FF?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🔤_Strings-6DB33F?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🔗_Linked_Lists-F7B731?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🌳_Trees-9B59B6?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/🕸️_Graphs-FF4757?style=for-the-badge&labelColor=161B22" />
+
+<img src="https://img.shields.io/badge/⚡_Dynamic_Programming-FF6B35?style=for-the-badge&labelColor=161B22" />
+
+</p>
+
+<p align="center">
+<b>🚀 Learning Never Stops — Solve. Learn. Improve. Repeat.</b>
+</p>
 
 ---
 
@@ -501,26 +563,33 @@ height="180"
 
 <p align="center">
 
-```text
-             💡 IDEA
-               │
-               ▼
-          🧠 THINK
-               │
-               ▼
-          💻 BUILD
-               │
-               ▼
-          🐛 DEBUG
-               │
-               ▼
-          🚀 DEPLOY
-               │
-               ▼
-          📈 IMPROVE
-               │
-               └───────────────► REPEAT 🔥
-```
+<img src="https://img.shields.io/badge/💡_IDEA-9B59B6?style=for-the-badge&labelColor=161B22" />
+
+⬇️
+
+<img src="https://img.shields.io/badge/🧠_THINK-00D9FF?style=for-the-badge&labelColor=161B22" />
+
+⬇️
+
+<img src="https://img.shields.io/badge/💻_BUILD-6DB33F?style=for-the-badge&labelColor=161B22" />
+
+⬇️
+
+<img src="https://img.shields.io/badge/🐛_DEBUG-F7B731?style=for-the-badge&labelColor=161B22" />
+
+⬇️
+
+<img src="https://img.shields.io/badge/🚀_DEPLOY-FF6B35?style=for-the-badge&labelColor=161B22" />
+
+⬇️
+
+<img src="https://img.shields.io/badge/📈_IMPROVE-FF4757?style=for-the-badge&labelColor=161B22" />
+
+</p>
+
+<p align="center">
+
+### 🔥 REPEAT. LEARN. BUILD BETTER.
 
 </p>
 
