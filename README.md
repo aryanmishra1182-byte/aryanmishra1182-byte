@@ -1,368 +1,1877 @@
-
-</details>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                       CURRENT FOCUS                           -->
 <!-- ============================================================ -->
 
-## 🎯 &nbsp;Current Focus
+<!--                     ARYAN MISHRA                            -->
 
-<table width="100%">
-<tr>
-<td width="25%" align="center">
+<!--              JAVA | BACKEND | SPRING BOOT                   -->
 
-### 🔨
-**Building**
-<br>
-Backend services & REST APIs with Spring Boot
-
-</td>
-<td width="25%" align="center">
-
-### 🌱
-**Learning**
-<br>
-Advanced Java, Databases & System Design fundamentals
-
-</td>
-<td width="25%" align="center">
-
-### 💻
-**Practicing**
-<br>
-DSA in C++ — 140+ problems on LeetCode
-
-</td>
-<td width="25%" align="center">
-
-### 🤝
-**Open To**
-<br>
-Internships & backend engineering opportunities
-
-</td>
-</tr>
-</table>
+<!-- ============================================================ -->
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+# Hi 👋, I'm Aryan Mishra
+
+### ☕ Aspiring Software Development Engineer | Java & Spring Boot | Backend Development | DSA
+
+<br>
+
+<!-- Animated typing effect -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Development+Engineer;Java+%26+Spring+Boot+Developer;Backend+Development+Enthusiast;Data+Structures+%26+Algorithms;Building.+Learning.+Improving." />
+
+<br>
+<br>
+
+<a href="https://github.com/aryanmishra1182-byte">
+<img src="https://img.shields.io/badge/GitHub-aryanmishra1182--byte-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Aryannn1/">
+<img src="https://img.shields.io/badge/LeetCode-140%2B%20Problems-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://www.hackerrank.com/aryanmishra1182">
+<img src="https://img.shields.io/badge/HackerRank-Profile-161B22?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
 
 </div>
 
-<!-- ============================================================ -->
-<!--                        TECH STACK                             -->
-<!-- ============================================================ -->
-
-## 🛠️ &nbsp;Tech Stack
+---
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,py,mysql&theme=dark" title="Java, C++, Python, SQL" />
+## 👨‍💻 About Me
 
-<br><br>
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   👋 Hey! I'm Aryan Mishra                                   ║
+║                                                              ║
+║   🎓 B.Tech CSE Student specializing in Data Science         ║
+║   ☕ Currently focused on Java & Backend Development         ║
+║   🌱 Learning Spring Boot and backend architecture           ║
+║   🧠 Practicing Data Structures & Algorithms using C++       ║
+║   🗄️ Exploring databases and scalable backend systems       ║
+║   📊 Background in Data Science & Machine Learning           ║
+║   🚀 Working towards becoming a Software Development         ║
+║      Engineer                                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+I am a Computer Science student who enjoys understanding how software works behind the scenes.
+
+My current primary focus is **Backend Development using Java and Spring Boot**.
+
+I am actively working on strengthening my understanding of:
+
+* Java fundamentals
+* Object-Oriented Programming
+* Collections Framework
+* Exception Handling
+* REST APIs
+* Spring Boot
+* JPA and Hibernate
+* SQL
+* MySQL
+* PostgreSQL
+* Backend architecture
+* Authentication concepts
+* Data Structures and Algorithms
+* Software Engineering fundamentals
+
+My background in **Data Science and Machine Learning** has helped me develop an analytical approach to solving problems, but my current career direction is focused primarily on becoming a strong **Backend / Software Development Engineer**.
+
+---
+
+<div align="center">
+
+# ⚡ Current Focus
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🔭 CURRENTLY BUILDING                                      │
+│     Backend applications and Java projects                  │
+│                                                             │
+│  🌱 CURRENTLY LEARNING                                      │
+│     Java • Spring Boot • REST APIs • JPA • Hibernate        │
+│                                                             │
+│  🗄️ EXPLORING                                               │
+│     MySQL • PostgreSQL • Database Design                    │
+│                                                             │
+│  🧠 PRACTICING                                              │
+│     Data Structures & Algorithms using C++                  │
+│                                                             │
+│  🏗️ NEXT GOAL                                               │
+│     Build scalable and production-oriented backend systems  │
+│                                                             │
+│  🚀 LONG-TERM GOAL                                          │
+│     Become a strong Software Development Engineer           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧑‍💻 Developer Profile
+
+```java
+public class AryanMishra {
+
+    private String role =
+            "Aspiring Software Development Engineer";
+
+    private String primaryFocus =
+            "Java Backend Development";
+
+    private String framework =
+            "Spring Boot";
+
+    private String dsaLanguage =
+            "C++";
+
+    private String databases =
+            "MySQL & PostgreSQL";
+
+    private String mindset =
+            "Learn → Build → Debug → Improve";
+
+    public void currentJourney() {
+
+        learnJava();
+
+        buildBackendProjects();
+
+        practiceDSA();
+
+        understandDatabases();
+
+        improveEveryDay();
+    }
+}
+```
+
+---
+
+<div align="center">
+
+# ☕ Java & Backend Development
+
+</div>
+
+Java is currently my primary language for backend development.
+
+I am focused on building a strong foundation instead of simply jumping between frameworks.
+
+My learning path currently includes:
+
+```text
+Java Fundamentals
+       │
+       ▼
+Object-Oriented Programming
+       │
+       ▼
+Collections Framework
+       │
+       ▼
+Exception Handling
+       │
+       ▼
+File Handling
+       │
+       ▼
+Multithreading Concepts
+       │
+       ▼
+SQL & Databases
+       │
+       ▼
+JDBC
+       │
+       ▼
+Spring Framework
+       │
+       ▼
+Spring Boot
+       │
+       ▼
+REST APIs
+       │
+       ▼
+JPA & Hibernate
+       │
+       ▼
+Authentication & Security
+       │
+       ▼
+System Design Fundamentals
+       │
+       ▼
+Scalable Backend Systems
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,sql&theme=dark" />
+
+<br>
+<br>
 
 ### Backend Development
-<img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" title="Spring Boot" />
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=swagger&logoColor=85EA2D" title="REST API design" />
-<img src="https://img.shields.io/badge/Hibernate/JPA-0d1117?style=flat-square&logo=hibernate&logoColor=BCA35D" title="Hibernate / JPA" />
-<img src="https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36" title="Maven" />
-<img src="https://img.shields.io/badge/JWT_Auth-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FB015B" title="JWT Authentication" />
-<img src="https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" title="Microservices concepts" />
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
+
+<br>
+<br>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" title="MySQL, PostgreSQL" />
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" title="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243" title="NumPy" />
-<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" title="Scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=white" title="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-0d1117?style=flat-square&logoColor=9ACD32" title="LightGBM" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" title="Flask" />
-
-<br><br>
+<br>
+<br>
 
 ### Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" title="Git, GitHub, IntelliJ IDEA, VS Code, Postman" />
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" />
+
+<br>
+<br>
+
+### Data Science Background
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+</div>
+
+---
+
+# ⚙️ Backend Development Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Backend%20Development-161B22?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning%20%26%20Building-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+
+<img src="https://img.shields.io/badge/REST%20API-Backend%20Services-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" />
+
+<img src="https://img.shields.io/badge/JPA-Database%20Persistence-161B22?style=for-the-badge&logo=hibernate&logoColor=59666C" />
+
+<img src="https://img.shields.io/badge/Hibernate-ORM-161B22?style=for-the-badge&logo=hibernate&logoColor=59666C" />
+
+<img src="https://img.shields.io/badge/Maven-Build%20Tool-161B22?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
 
 </div>
 
 <br>
 
-<details>
-<summary><b>📋 Full Skills Matrix (click to expand)</b></summary>
-<br>
+### Technologies I'm focusing on
 
-| Category | Skills |
-|---|---|
-| **Languages** | Java · C++ · Python · SQL |
-| **Backend** | Spring Boot · REST APIs · Hibernate / JPA · Maven · JWT · Microservices |
-| **Databases** | MySQL · PostgreSQL |
-| **Data Science** | Data Analysis · Data Visualization · Feature Engineering · Statistics |
-| **Machine Learning** | Scikit-learn · XGBoost · LightGBM · Regression · Classification · Clustering · PCA |
-| **Tools** | Git · GitHub · MySQL Workbench · IntelliJ IDEA · VS Code · Postman |
-| **DSA** | Practiced in C++ — 140+ problems solved on LeetCode |
+```text
+☕ Java
+│
+├── Core Java
+├── OOP
+├── Collections Framework
+├── Exception Handling
+├── File Handling
+├── Multithreading Concepts
+└── JDBC
+```
 
-</details>
+```text
+🌱 Spring Boot
+│
+├── Spring Core Concepts
+├── Dependency Injection
+├── REST Controllers
+├── Request & Response Handling
+├── Service Layer
+├── Repository Layer
+├── JPA
+└── Hibernate
+```
 
-<br>
+```text
+🗄️ Databases
+│
+├── SQL
+├── MySQL
+├── PostgreSQL
+├── CRUD Operations
+├── Joins
+├── Relationships
+└── Database Integration
+```
 
-<!-- ============================================================ -->
-<!--                    SKILLS ARCHITECTURE                        -->
-<!-- ============================================================ -->
+---
 
-## 🧱 &nbsp;How My Skills Connect
+# 🏗️ Backend Architecture
+
+A typical backend architecture I am learning to build:
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#00FF9C', 'primaryBorderColor': '#00FF9C', 'lineColor': '#00B4FF', 'secondaryColor': '#0d1117', 'tertiaryColor': '#0d1117'}}}%%
 flowchart LR
-    A[DSA in C++] --> B[Problem Solving Foundation]
-    B --> C[Backend Development]
-    C --> D[Java + Spring Boot]
-    D --> E[REST APIs & Microservices]
-    E --> F[(MySQL / PostgreSQL)]
-    B --> G[Data Science & ML]
-    G --> H[Scikit-learn / XGBoost / LightGBM]
-    H --> I[End-to-End ML Projects]
-    F --> J((Scalable Backend Systems))
-    I --> J
-    J --> K[Software Development Engineer]
+
+    A[Client]
+
+    B[REST API]
+
+    C[Controller Layer]
+
+    D[Service Layer]
+
+    E[Repository Layer]
+
+    F[(Database)]
+
+    A --> B
+
+    B --> C
+
+    C --> D
+
+    D --> E
+
+    E --> F
+```
+
+---
+
+# 🔄 Request Flow
+
+```text
+CLIENT REQUEST
+      │
+      ▼
+┌─────────────────────┐
+│   REST CONTROLLER   │
+└─────────────────────┘
+      │
+      ▼
+┌─────────────────────┐
+│   SERVICE LAYER     │
+│   Business Logic    │
+└─────────────────────┘
+      │
+      ▼
+┌─────────────────────┐
+│   REPOSITORY LAYER  │
+│   Database Access   │
+└─────────────────────┘
+      │
+      ▼
+┌─────────────────────┐
+│      DATABASE       │
+└─────────────────────┘
+      │
+      ▼
+    RESPONSE
+```
+
+---
+
+<div align="center">
+
+# 🧠 Data Structures & Algorithms
+
+</div>
+
+I practice Data Structures and Algorithms primarily using **C++**.
+
+Currently, I have solved **140+ problems on LeetCode** and continue improving my problem-solving skills.
+
+My focus is not only solving problems but understanding:
+
+* Why an approach works
+* Time complexity
+* Space complexity
+* Edge cases
+* Different approaches to the same problem
+* How to optimize brute-force solutions
+
+---
+
+# 🗺️ DSA Learning Journey
+
+```text
+FOUNDATIONS
+│
+├── Arrays
+│
+├── Strings
+│
+├── Sorting
+│
+├── Searching
+│
+└── Basic Mathematics
+```
+
+```text
+DATA STRUCTURES
+│
+├── Linked Lists
+│
+├── Stacks
+│
+├── Queues
+│
+├── Hashing
+│
+└── Recursion
+```
+
+```text
+TREES & GRAPHS
+│
+├── Binary Trees
+│
+├── Binary Search Trees
+│
+├── Tree Traversals
+│
+├── Graph Traversals
+│
+└── Shortest Path Concepts
+```
+
+```text
+ADVANCED TOPICS
+│
+├── Backtracking
+│
+├── Greedy Algorithms
+│
+├── Dynamic Programming
+│
+├── Graph Algorithms
+│
+└── Advanced Problem Solving
+```
+
+> 🚧 This is an ongoing learning journey. The goal is consistent improvement, not claiming mastery.
+
+---
+
+# 📂 Featured Projects
+
+---
+
+## 🎓 Student Hub
+
+### A student productivity application
+
+Student Hub is designed to help students organize important academic activities in one place.
+
+### Features
+
+```text
+📅 Timetable Management
+
+📝 Notes Management
+
+✅ Task Management
+
+🎓 Student Productivity
+```
+
+### Tech Stack
+
+```text
+HTML
+
+CSS
+
+JavaScript
+```
+
+### Project Structure
+
+```text
+Student Hub
+│
+├── User Interface
+│
+├── Timetable Management
+│
+├── Notes
+│
+└── Tasks
+```
+
+### Repository
+
+**Student Hub →** [View Repository](https://github.com/aryanmishra1182-byte/Student-Hub)
+
+---
+
+## 📊 AI-Driven Student Performance Prediction
+
+An end-to-end Machine Learning project focused on predicting student performance using academic, behavioral, and lifestyle-related factors.
+
+The project involves a complete workflow from data processing to model deployment.
+
+### Technologies Used
+
+```text
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+XGBoost
+
+Flask
+
+Joblib
+
+HTML
+
+CSS
+```
+
+### Example Input Factors
+
+```text
+📚 Hours Studied
+
+🏫 Attendance
+
+📈 Previous Scores
+
+😴 Sleep Hours
+
+🎯 Motivation Level
+
+👨‍👩‍👧 Parental Involvement
+
+🌐 Access to Resources
+
+👨‍🏫 Tutoring Sessions
+
+🏃 Physical Activity
+
+🏫 School-related Factors
+```
+
+### Machine Learning Workflow
+
+```mermaid
+flowchart LR
+
+    A[Dataset]
+
+    B[Data Cleaning]
+
+    C[Exploratory Data Analysis]
+
+    D[Feature Engineering]
+
+    E[Data Preprocessing]
+
+    F[Model Training]
+
+    G[Model Evaluation]
+
+    H[Flask Application]
+
+    A --> B
+
+    B --> C
+
+    C --> D
+
+    D --> E
+
+    E --> F
+
+    F --> G
+
+    G --> H
+```
+
+### Repository
+
+**AI-Driven Student Performance Prediction →**
+
+[View Repository](https://github.com/aryanmishra1182-byte/AryanMishra_PBEL_3.0)
+
+---
+
+## 🏋️ Fitness Monolith
+
+### 🚧 Backend Development Journey
+
+A backend-focused project built as part of my journey into Java and Spring Boot development.
+
+The project represents my effort to move beyond theory and understand how backend applications are structured.
+
+My focus while building backend projects includes:
+
+```text
+Java Application Structure
+
+Spring Boot
+
+REST APIs
+
+Controllers
+
+Services
+
+Repositories
+
+Database Integration
+
+JPA / Hibernate Concepts
+
+Request & Response Handling
+```
+
+### Development Mindset
+
+```text
+Learn the concept
+        │
+        ▼
+Build something
+        │
+        ▼
+Break something
+        │
+        ▼
+Debug it
+        │
+        ▼
+Understand why
+        │
+        ▼
+Improve the implementation
+```
+
+---
+
+# 🧩 Project Development Philosophy
+
+```text
+TUTORIAL
+   │
+   ▼
+UNDERSTAND
+   │
+   ▼
+MODIFY
+   │
+   ▼
+BREAK
+   │
+   ▼
+DEBUG
+   │
+   ▼
+REBUILD
+   │
+   ▼
+CREATE SOMETHING NEW
+```
+
+I believe building projects teaches things that watching tutorials cannot.
+
+Every bug is an opportunity to understand the system better.
+
+---
+
+<div align="center">
+
+# 🗄️ Database Journey
+
+</div>
+
+Currently working with relational databases and backend integration.
+
+### Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-Database-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+
+</div>
+
+### Concepts I'm working with
+
+```text
+CREATE
+
+READ
+
+UPDATE
+
+DELETE
+```
+
+```text
+SELECT
+
+WHERE
+
+ORDER BY
+
+GROUP BY
+
+HAVING
+
+JOIN
+```
+
+```text
+One-to-One Relationships
+
+One-to-Many Relationships
+
+Many-to-One Relationships
+
+Many-to-Many Relationships
+```
+
+```text
+Database Design
+
+Primary Keys
+
+Foreign Keys
+
+Normalization Concepts
+
+Data Integrity
+```
+
+---
+
+# 🔐 Backend Concepts I'm Exploring
+
+```text
+RESTful API Design
+```
+
+```text
+HTTP Methods
+```
+
+```text
+GET
+```
+
+```text
+POST
+```
+
+```text
+PUT
+```
+
+```text
+DELETE
+```
+
+```text
+HTTP Status Codes
+```
+
+```text
+200 OK
+```
+
+```text
+201 CREATED
+```
+
+```text
+400 BAD REQUEST
+```
+
+```text
+401 UNAUTHORIZED
+```
+
+```text
+403 FORBIDDEN
+```
+
+```text
+404 NOT FOUND
+```
+
+```text
+500 INTERNAL SERVER ERROR
+```
+
+---
+
+# 🌱 Currently Learning
+
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  ☕ Advanced Java                                    │
+│                                                      │
+│  🌱 Spring Boot                                      │
+│                                                      │
+│  🔌 REST APIs                                        │
+│                                                      │
+│  🗄️ SQL & PostgreSQL                                │
+│                                                      │
+│  📦 JPA & Hibernate                                  │
+│                                                      │
+│  🔐 Authentication Concepts                          │
+│                                                      │
+│  🏗️ Backend Architecture                             │
+│                                                      │
+│  ⚙️ System Design Fundamentals                       │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🔮 What's Next?
+
+These are technologies and concepts I plan to explore as I continue my backend journey.
+
+```text
+NEXT
+│
+├── Spring Security
+│
+├── JWT Authentication
+│
+├── Docker
+│
+├── Redis
+│
+├── Microservices Fundamentals
+│
+├── Message Queues
+│
+├── Cloud Fundamentals
+│
+├── Advanced System Design
+│
+└── Scalable Distributed Systems
+```
+
+> These are learning goals and not technologies I claim to have mastered.
+
+---
+
+# 📊 Data Science Background
+
+Although my current focus is Backend Development, I also have experience exploring Data Science and Machine Learning.
+
+### Technologies
+
+```text
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+XGBoost
+
+LightGBM
+
+Matplotlib
+
+Seaborn
+```
+
+### Areas Explored
+
+```text
+Data Cleaning
+```
+
+```text
+Exploratory Data Analysis
+```
+
+```text
+Feature Engineering
+```
+
+```text
+Feature Selection
+```
+
+```text
+Regression
+```
+
+```text
+Classification
+```
+
+```text
+Clustering
+```
+
+```text
+PCA
+```
+
+```text
+Model Evaluation
+```
+
+```text
+Data Visualization
+```
+
+---
+
+# 🤖 Machine Learning Journey
+
+```text
+Python
+   │
+   ▼
+Data Analysis
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Exploratory Data Analysis
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Feature Selection
+   │
+   ▼
+Machine Learning Models
+   │
+   ▼
+Model Evaluation
+   │
+   ▼
+Deployment
+```
+
+### Algorithms Explored
+
+```text
+Linear Regression
+```
+
+```text
+Logistic Regression
+```
+
+```text
+Decision Trees
+```
+
+```text
+Random Forest
+```
+
+```text
+K-Nearest Neighbors
+```
+
+```text
+Support Vector Machines
+```
+
+```text
+XGBoost
+```
+
+```text
+LightGBM
+```
+
+```text
+Clustering
+```
+
+```text
+Principal Component Analysis
+```
+
+---
+
+<div align="center">
+
+# 📈 GitHub Analytics
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanmishra1182-byte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" />
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra1182-byte&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=aryanmishra1182-byte&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9" />
+
+</div>
+
+---
+
+# ⚡ Developer Activity
+
+```text
+💻 Building projects
+
+☕ Learning Java
+
+🌱 Exploring Spring Boot
+
+🔌 Working with REST APIs
+
+🗄️ Understanding database integration
+
+🧠 Practicing DSA with C++
+
+📚 Strengthening software engineering fundamentals
+
+🚀 Working toward Backend & Software Engineering opportunities
+```
+
+---
+
+# 🧭 My Developer Journey
+
+```text
+2024
+│
+├── Strengthened programming fundamentals
+│
+└── Started exploring Computer Science concepts
+```
+
+```text
+2025
+│
+├── Explored Data Science
+│
+├── Worked with Machine Learning
+│
+├── Built Data Science projects
+│
+└── Improved problem-solving skills
+```
+
+```text
+2026
+│
+├── Increased focus on Data Structures & Algorithms
+│
+├── Started transitioning toward Software Development
+│
+├── Learning Java
+│
+├── Learning Spring Boot
+│
+├── Exploring Backend Development
+│
+└── Building Java-based projects
+```
+
+```text
+NEXT
+│
+▼
+Backend Engineering
+│
+▼
+System Design
+│
+▼
+Scalable Applications
+│
+▼
+Software Development Engineer
+```
+
+---
+
+# 🧠 Software Engineering Principles
+
+The principles I try to follow while learning and building:
+
+```text
+01.
+Write code that humans can understand.
+```
+
+```text
+02.
+Understand the problem before writing the solution.
+```
+
+```text
+03.
+Start simple before optimizing.
+```
+
+```text
+04.
+Learn from bugs instead of just fixing them.
+```
+
+```text
+05.
+Build projects instead of only completing tutorials.
+```
+
+```text
+06.
+Understand fundamentals deeply.
+```
+
+```text
+07.
+Use Git and version control properly.
+```
+
+```text
+08.
+Think about edge cases.
+```
+
+```text
+09.
+Keep improving consistency.
+```
+
+```text
+10.
+Never stop being curious.
+```
+
+---
+
+# 💻 Terminal
+
+```bash
+aryan@github:~$ whoami
+
+Aryan Mishra
+```
+
+```bash
+aryan@github:~$ cat education.txt
+
+B.Tech Computer Science & Engineering
+Specialization: Data Science
+```
+
+```bash
+aryan@github:~$ cat current_focus.txt
+
+Java
+Spring Boot
+Backend Development
+REST APIs
+Databases
+DSA
+```
+
+```bash
+aryan@github:~$ cat goal.txt
+
+Become a strong Software Development Engineer
+capable of designing and building reliable software systems.
+```
+
+```bash
+aryan@github:~$ status
+
+STATUS: Learning
+MODE: Building
+LANGUAGE: Java
+FRAMEWORK: Spring Boot
+DSA LANGUAGE: C++
+DATABASES: MySQL / PostgreSQL
+```
+
+```bash
+aryan@github:~$
+```
+
+---
+
+# ☕ Java Developer Roadmap
+
+```text
+┌──────────────────────────────┐
+│      JAVA FUNDAMENTALS       │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│   OBJECT ORIENTED PROGRAMMING│
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│      COLLECTIONS FRAMEWORK   │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│    EXCEPTION HANDLING        │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       SQL & DATABASES        │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       SPRING FRAMEWORK       │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│         SPRING BOOT          │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│          REST APIs           │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       JPA & HIBERNATE        │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       SYSTEM DESIGN          │
+└──────────────┬───────────────┘
+               │
+               ▼
+          🚀 SDE JOURNEY
+```
+
+---
+
+# 🧩 Problem Solving Mindset
+
+```text
+PROBLEM
+   │
+   ▼
+UNDERSTAND
+   │
+   ▼
+IDENTIFY CONSTRAINTS
+   │
+   ▼
+BRUTE FORCE
+   │
+   ▼
+ANALYZE COMPLEXITY
+   │
+   ▼
+OPTIMIZE
+   │
+   ▼
+TEST EDGE CASES
+   │
+   ▼
+IMPLEMENT CLEANLY
+```
+
+---
+
+# 🎯 Current Goals
+
+```text
+[✓] Build a strong programming foundation
+```
+
+```text
+[✓] Practice Data Structures & Algorithms
+```
+
+```text
+[✓] Solve 140+ LeetCode problems
+```
+
+```text
+[~] Strengthen Java fundamentals
+```
+
+```text
+[~] Build Spring Boot projects
+```
+
+```text
+[~] Improve SQL and database knowledge
+```
+
+```text
+[ ] Build production-style backend applications
+```
+
+```text
+[ ] Learn authentication and security
+```
+
+```text
+[ ] Learn Docker and deployment
+```
+
+```text
+[ ] Understand system design
+```
+
+```text
+[ ] Secure a Software Engineering / Backend Internship
+```
+
+---
+
+# 🚀 What I'm Building Towards
+
+```text
+                 ┌───────────────────────┐
+                 │  SOFTWARE ENGINEER    │
+                 └───────────▲───────────┘
+                             │
+                             │
+                 ┌───────────┴───────────┐
+                 │     SYSTEM DESIGN     │
+                 └───────────▲───────────┘
+                             │
+                             │
+                 ┌───────────┴───────────┐
+                 │  BACKEND DEVELOPMENT  │
+                 └───────────▲───────────┘
+                             │
+                             │
+                 ┌───────────┴───────────┐
+                 │     SPRING BOOT        │
+                 └───────────▲───────────┘
+                             │
+                             │
+                 ┌───────────┴───────────┐
+                 │         JAVA          │
+                 └───────────▲───────────┘
+                             │
+                             │
+                 ┌───────────┴───────────┐
+                 │     FUNDAMENTALS      │
+                 └───────────────────────┘
+```
+
+---
+
+# 🔓 Open to Opportunities
+
+I am interested in opportunities where I can learn, contribute, and grow as a developer.
+
+### Areas of Interest
+
+```text
+☕ Java Development
+```
+
+```text
+🌱 Spring Boot Development
+```
+
+```text
+⚙️ Backend Development
+```
+
+```text
+💻 Software Engineering Internships
+```
+
+```text
+🧠 Problem Solving
+```
+
+```text
+🤝 Technical Collaboration
+```
+
+---
+
+# 🌍 Open Source Interest
+
+I am interested in learning more from open-source projects and understanding how real-world software is designed and maintained.
+
+My goals include:
+
+```text
+Explore well-structured repositories
+```
+
+```text
+Understand professional codebases
+```
+
+```text
+Improve Git and GitHub workflows
+```
+
+```text
+Learn from other developers
+```
+
+```text
+Contribute when capable
+```
+
+```text
+Build projects publicly
+```
+
+---
+
+# 🛠️ Tools I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,mysql,postgres,maven&theme=dark" />
+
+</div>
+
+---
+
+# 🧪 Development Workflow
+
+```text
+IDEA
+ │
+ ▼
+WRITE CODE
+ │
+ ▼
+RUN APPLICATION
+ │
+ ▼
+ERROR ❌
+ │
+ ▼
+READ ERROR
+ │
+ ▼
+DEBUG
+ │
+ ▼
+SEARCH DOCUMENTATION
+ │
+ ▼
+FIX
+ │
+ ▼
+TEST
+ │
+ ▼
+COMMIT WITH GIT
+ │
+ ▼
+PUSH TO GITHUB
+ │
+ ▼
+REPEAT 🔁
+```
+
+---
+
+# 🐛 Debugging Philosophy
+
+```text
+Bug detected ❌
+       │
+       ▼
+Don't panic
+       │
+       ▼
+Read the error
+       │
+       ▼
+Understand the stack trace
+       │
+       ▼
+Check assumptions
+       │
+       ▼
+Find the root cause
+       │
+       ▼
+Fix the issue
+       │
+       ▼
+Test again
+       │
+       ▼
+Learn from it ✅
+```
+
+---
+
+# 💡 Developer Philosophy
+
+> **Build. Break. Debug. Understand. Improve. Repeat.**
+
+I believe the best learning happens when theory meets implementation.
+
+Reading about a concept is useful.
+
+Writing code makes it practical.
+
+Breaking the code exposes assumptions.
+
+Debugging builds understanding.
+
+Repeating the process builds experience.
+
+---
+
+# 🎓 Beyond the Backend
+
+My Data Science background has helped me develop skills in:
+
+```text
+Analytical Thinking
+```
+
+```text
+Data Interpretation
+```
+
+```text
+Feature Engineering
+```
+
+```text
+Model Evaluation
+```
+
+```text
+Experimentation
+```
+
+```text
+Problem Solving
+```
+
+These experiences continue to influence the way I approach software problems.
+
+---
+
+# 🧠 Skills Dashboard
+
+```text
+Java
+
+████████░░░░░░░░
+
+Learning & Building
+```
+
+```text
+Spring Boot
+
+██████░░░░░░░░░░
+
+Actively Learning
+```
+
+```text
+C++ / DSA
+
+█████████░░░░░░░
+
+Active Practice
+```
+
+```text
+SQL
+
+████████░░░░░░░░
+
+Building Database Skills
+```
+
+```text
+MySQL / PostgreSQL
+
+███████░░░░░░░░░
+
+Learning & Using
+```
+
+```text
+Python
+
+████████░░░░░░░░
+
+Data Science Background
+```
+
+```text
+Machine Learning
+
+███████░░░░░░░░░
+
+Project Experience
+```
+
+```text
+Git & GitHub
+
+████████░░░░░░░░
+
+Active Development Workflow
+```
+
+> The bars above represent learning focus and familiarity, not exact skill percentages.
+
+---
+
+# 🔗 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/aryanmishra1182-byte">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+<br>
+
+<a href="https://leetcode.com/u/Aryannn1/">
+<img src="https://img.shields.io/badge/LeetCode-140%2B%20Problems-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<br>
+<br>
+
+<a href="https://www.hackerrank.com/aryanmishra1182">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-161B22?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+
+</div>
+
+---
+
+# 📚 Always Learning
+
+```text
+Yesterday's confusion
+        ↓
+Today's debugging
+        ↓
+Tomorrow's understanding
+```
+
+Software development is a continuous process of learning.
+
+There will always be:
+
+```text
+A new concept to understand.
+```
+
+```text
+A bug to fix.
+```
+
+```text
+A better solution to discover.
+```
+
+```text
+A project to improve.
+```
+
+```text
+A new challenge to solve.
+```
+
+---
+
+# ⚙️ Engineering Mindset
+
+```text
+Don't memorize blindly.
+```
+
+```text
+Understand how things work.
+```
+
+```text
+Don't copy without reading.
+```
+
+```text
+Understand the implementation.
+```
+
+```text
+Don't fear bugs.
+```
+
+```text
+Use them to learn.
+```
+
+```text
+Don't chase every technology.
+```
+
+```text
+Build strong fundamentals.
+```
+
+---
+
+# 🔥 A Few Things About Me
+
+```text
+☕ Java is my current primary backend focus.
+```
+
+```text
+🧠 C++ is my primary language for DSA practice.
+```
+
+```text
+📊 My Data Science background helps me think analytically.
+```
+
+```text
+🐛 Debugging is an unavoidable part of development.
+```
+
+```text
+🚀 Building projects teaches lessons that tutorials cannot.
+```
+
+```text
+📚 I believe consistency matters more than temporary motivation.
+```
+
+---
+
+# 💬 Developer Notes
+
+> "Understanding why code works is more valuable than simply making it work."
+
+> "A difficult bug is often a lesson about an assumption you did not know you made."
+
+> "Strong software is built on strong fundamentals."
+
+> "Progress comes from repeatedly solving problems that once felt difficult."
+
+> "Every project starts with something you do not fully understand."
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/aryanmishra1182-byte">
+<img src="https://img.shields.io/badge/GitHub-Aryan%20Mishra-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Aryannn1/">
+<img src="https://img.shields.io/badge/LeetCode-Aryannn1-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://www.hackerrank.com/aryanmishra1182">
+<img src="https://img.shields.io/badge/HackerRank-aryanmishra1182-161B22?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Current Mission
+
+### Learn deeply.
+
+### Build consistently.
+
+### Solve problems.
+
+### Write better code.
+
+### Become a better engineer every day.
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Building systems.                          │
+│                                              │
+│   Solving problems.                          │
+│                                              │
+│   Learning every day.                        │
+│                                              │
+│   One commit at a time.                      │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 <br>
 
-<!-- ============================================================ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ============================================================ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🗂️ <a href="https://github.com/aryanmishra1182-byte/Student-Hub">Student Hub</a></h3>
-
-A student productivity platform to manage timetables, notes, and tasks in one unified interface.
-
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-<br><br>
-
-**Highlights:**
-- Centralized dashboard for daily academic workflow
-- Task and note management in a single view
-
-</td>
-<td width="50%" valign="top">
-<h3>🎯 <a href="https://github.com/aryanmishra1182-byte/redrob-ai-candidate-ranking">AI Candidate Ranking</a></h3>
-
-AI-powered candidate discovery and ranking system using semantic retrieval and hybrid scoring.
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Semantic_Search-0d1117?style=flat-square&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Hybrid_Scoring-0d1117?style=flat-square&logoColor=00B4FF" />
-
-<br><br>
-
-**Highlights:**
-- Combines semantic retrieval with rule-based scoring
-- Ranks candidates against role requirements
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📈 <a href="https://github.com/aryanmishra1182-byte/AryanMishra_PBEL_3.0">Student Performance Prediction</a></h3>
-
-An end-to-end ML project predicting student exam performance from academic, lifestyle, and demographic features.
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" />
-
-<br><br>
-
-**Highlights:**
-- Full pipeline from raw data to a deployed prediction model
-- Feature engineering across academic and lifestyle variables
-
-</td>
-<td width="50%" valign="top">
-<h3>🎙️ <a href="https://github.com/aryanmishra1182-byte/voice-ai-detector">Voice AI Detector</a></h3>
-
-A machine learning system to detect AI-generated voice/audio, served through a web application.
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=flat-square&logoColor=00FF9C" />
-
-<br><br>
-
-**Highlights:**
-- Trained model served through a lightweight web frontend
-- Dedicated modules for model, security, and utilities
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖 <a href="https://github.com/aryanmishra1182-byte/autonomous-ai-persona">Autonomous AI Persona</a></h3>
-
-A Java-based project exploring autonomous AI persona/agent behavior.
-
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-
-<br><br>
-
-**Highlights:**
-- Java-based exploration of agent-driven behavior patterns
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<br><br>
-
-💡 **More backend & Spring Boot projects in progress.**
-
-Check my full [repository list →](https://github.com/aryanmishra1182-byte?tab=repositories)
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-<!-- ============================================================ -->
-<!--                      CODING PROFILES                          -->
-<!-- ============================================================ -->
-
-## 🏆 &nbsp;Coding Profiles
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-140%2B_Problems_Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" title="140+ problems solved on LeetCode" />
-
-</div>
+### ⭐ Explore my repositories and follow my journey into Java & Backend Development.
 
 <br>
 
-<div align="center">
-
-| Platform | Handle | Link |
-|:---:|:---:|:---:|
-| 💻 GitHub | `aryanmishra1182-byte` | [Visit →](https://github.com/aryanmishra1182-byte) |
-| 🟠 LeetCode | `Aryannn1` | [Visit →](https://leetcode.com/u/Aryannn1/) |
-| 🍫 CodeChef | `crowd_grape_01` | [Visit →](https://www.codechef.com/users/crowd_grape_01) |
-| 🟢 HackerRank | `aryanmishra1182` | [Visit →](https://www.hackerrank.com/aryanmishra1182) |
-
-</div>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                    GITHUB STATISTICS                          -->
-<!-- ============================================================ -->
-
-## 📊 &nbsp;GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryanmishra1182-byte&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00FF9C&icon_color=00B4FF&text_color=c9d1d9" height="170" />
-<img src="https://streak-stats.demolab.com?user=aryanmishra1182-byte&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=FF6EC7&currStreakLabel=00FF9C" height="170" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra1182-byte&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="170" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmishra1182-byte&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF9C&line=00B4FF&point=FF6EC7" width="95%" />
-
-</div>
-
-> *All stat cards above are rendered live by third-party GitHub services and update automatically — no manual editing needed. If one fails to load momentarily, the rest of the page still renders correctly.*
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+<img src="https://komarev.com/ghpvc/?username=aryanmishra1182-byte&label=Profile%20Views&color=58A6FF&style=flat" />
 
 </div>
 
 <!-- ============================================================ -->
-<!--                        PHILOSOPHY                             -->
-<!-- ============================================================ -->
 
-## 💭 &nbsp;Philosophy
+<!--                  END OF PROFILE README                       -->
 
-<div align="center">
-
-> ### "The best way to learn software engineering is to build, break, debug, and build again."
-
-</div>
-
-<br>
-
-<details>
-<summary><b>🧠 A Few Principles I Try to Code By</b></summary>
-<br>
-
-- **Consistency beats intensity** — daily DSA practice compounds faster than occasional sprints.
-- **Understand before you optimize** — clean, correct code first; performance tuning second.
-- **Read the error, not just the stack trace** — most bugs explain themselves if you slow down.
-- **Build things that are actually used** — a working small project beats an unfinished ambitious one.
-
-</details>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                       CONNECT WITH ME                         -->
-<!-- ============================================================ -->
-
-## 📫 &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/aryanmishra1182-byte" title="GitHub"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C" /></a>
-<a href="https://leetcode.com/u/Aryannn1/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://www.codechef.com/users/crowd_grape_01" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=8B4513" /></a>
-<a href="https://www.hackerrank.com/aryanmishra1182" title="HackerRank"><img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
-<a href="mailto:aryanmishra1182@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-
-<br><br>
-
-**📧 aryanmishra1182@gmail.com**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer" width="100%"/>
-
-<i>Thanks for stopping by — always open to feedback, collaboration, and new opportunities.</i>
-
-</div>
-
-<!-- ============================================================ -->
-<!--                       END OF README                           -->
 <!-- ============================================================ -->
